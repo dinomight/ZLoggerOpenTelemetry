@@ -55,3 +55,10 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# User-Specific Files
+*.user
+*.DotSettings.user
+
+# vi
+*.swp

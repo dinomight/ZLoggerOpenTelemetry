@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="ZLoggerOpenTelemetry.Benchmarks/ZLoggerOpenTelemetry.Benchmarks.csproj" />
+  <Project Path="ZLoggerOpenTelemetry/ZLoggerOpenTelemetry.csproj" />
+</Solution>
